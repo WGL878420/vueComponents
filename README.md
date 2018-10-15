@@ -1,7 +1,4 @@
 ## 基于iView的Vue.js组件库文档
-
-[在线DEMO](https://luolr.github.io/mhc-iView-doc)
-
 ### 编译运行
 
 ``` bash
