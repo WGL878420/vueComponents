@@ -3,7 +3,7 @@
 
 ``` bash
 # 克隆项目
-git clone https://github.com/luolr/mhc-iView-doc.git
+https://github.com/jsonshao/vueComponents
 
 # 安装依赖
 npm install
